@@ -15,7 +15,7 @@
   </modules>
 
   <properties>
-    <androidApiLevel>4</androidApiLevel>
+    <androidApiLevel>8</androidApiLevel>
     <androidVersion>1.6</androidVersion>
     <androidApiRevision>r2</androidApiRevision>
 
