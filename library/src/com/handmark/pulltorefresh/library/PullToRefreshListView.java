@@ -282,4 +282,13 @@ public class PullToRefreshListView extends PullToRefreshAdapterViewBase<ListView
 		}
 	}
 
+
+	public LoadingLayout getHeaderLoadingView() {
+		return mHeaderLoadingView;
+	}
+
+	public LoadingLayout getFooterLoadingView() {
+		return mFooterLoadingView;
+	}
+
 }
